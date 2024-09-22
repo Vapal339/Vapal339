@@ -1,6 +1,6 @@
 # Hi there, I'm Valeria Zayats! 👋
 
-![Header](https://your-github-link-to-uploaded-image)
+![Header](https://github.com/Vapal339/valeria-portfolio/blob/main/ValeriaHeaderGitHub.png?raw=true)
 
 ## 🧑‍💻 About Me
 
