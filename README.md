@@ -37,7 +37,6 @@ I'm a passionate software developer currently pursuing a Bachelor’s degree in 
 ## 📫 Get in Touch
 
 - **LinkedIn**: [Valeria Zayats](https://www.linkedin.com/in/valeria-zayats339)
-- **Email**: [valerie.zay339@gmail.com](mailto:valerie.zay339@gmail.com)
 
 ---
 
